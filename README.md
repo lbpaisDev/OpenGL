@@ -1,0 +1,3 @@
+### OpenGL
+
+Simple experiments with lighting techniques such as ray-tracing. Textures, objects, etc...

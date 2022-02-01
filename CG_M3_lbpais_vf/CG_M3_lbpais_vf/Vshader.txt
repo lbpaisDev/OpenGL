@@ -1,0 +1,15 @@
+//=========================================================================== 
+//==========================  CG – Departamento de Engenharia Informática -UC
+//=========================================================================== 
+//          						{jh, evgheni@dei.uc.pt	
+//=========================================================================== 
+
+varying vec3  vNormal;
+
+void main(void) {
+
+       vNormal = gl_Normal ; 	
+	gl_Position = gl_ModelViewProjectionMatrix * gl_Vertex;
+	
+}
+

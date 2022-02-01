@@ -1,0 +1,95 @@
+﻿  Projeto_CG_v0.01.cpp
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(31,39): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(31,57): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(35,29): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(35,29): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(35,58): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(35,58): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(37,29): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(37,29): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(37,72): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(37,72): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(74,13): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(80,16): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(86,19): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(93,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(135,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(148,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(162,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(200,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(235,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(270,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(305,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(343,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(380,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(381,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(382,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(383,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(384,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(386,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(387,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(388,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(389,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(391,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(392,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(393,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(394,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(396,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(397,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(398,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(399,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(401,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(402,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(403,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(404,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(406,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(407,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(408,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(409,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(416,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(417,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(418,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(419,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(420,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(422,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(423,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(424,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(425,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(427,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(428,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(429,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(430,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(432,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(433,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(434,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(435,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(437,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(438,44): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(439,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(440,43): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(442,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(443,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(444,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(445,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(469,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(478,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(530,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(542,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(551,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(554,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(563,16): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(566,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(574,27): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(585,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(598,40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(606,27): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(617,23): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(629,23): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(652,47): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(653,47): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(656,48): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(657,48): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(661,36): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(662,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Projeto_CG_v0.01\Projeto_CG_v0.01.cpp(663,20): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Projeto_CG_v0.01.vcxproj -> C:\Users\lbpais\source\repos\Projeto_CG_v0.01\Debug\Projeto_CG_v0.01.exe
